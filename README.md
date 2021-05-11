@@ -1,1 +1,1 @@
-# My-Store
+# My-Store for everyone to use.
